@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../js learn"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
